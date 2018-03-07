@@ -1,4 +1,5 @@
-# Youtube channel concepts
+Youtube channel concepts
+=====================
 
 ### VLOG
 - Places
@@ -16,5 +17,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Nzc5NzY3Nl19
+eyJoaXN0b3J5IjpbMjAwMzQxNTc0Nl19
 -->
