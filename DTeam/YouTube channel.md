@@ -1,15 +1,15 @@
 Youtube channel concepts
 =====================
 
-### VLOG
+#### VLOG
 - Places
 - Foods
 
-### Tutorial
+#### Tutorial
 - Java programming
 - Java script programming
 
-### Gaming
+#### Gaming
 - WWE wrestling game with story-line
 
 
@@ -17,5 +17,5 @@ Youtube channel concepts
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzQxNTc0Nl19
+eyJoaXN0b3J5IjpbMTIyNDkyOTU2NywyMDAzNDE1NzQ2XX0=
 -->
