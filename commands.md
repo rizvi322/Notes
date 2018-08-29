@@ -13,11 +13,9 @@ for ext in ../*; do name=$(echo $ext | cut -d'-' -f 4 | tr 'a-z' 'A-Z'); [ "$nam
 ```bash
 for ext in ../*; do name=$(echo $ext | cut -d'-' -f 4 | tr 'a-z' 'A-Z'); [ "$name" != "" ] && echo "- \${EXTENSION_${name}_PATH}:/srv/$(echo $ext | cut -d'/' -f 2)/:ro" ; done;
 ```
-
-
 ----------
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjE3Mzk5MV19
+eyJoaXN0b3J5IjpbMjA1NzUwMDk4MiwxMDYyMTczOTkxXX0=
 -->
